@@ -8,4 +8,4 @@ LeetCode解题思路
 
 - [26-删除有序数组中的重复项](https://github.com/YuAn-06/Leetcode/blob/main/26-%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md#26-%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9)
 
-- [209]-[长度最小的子数组](https://github.com/YuAn-06/Leetcode/blob/main/209-%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
+- [209-长度最小的子数组](https://github.com/YuAn-06/Leetcode/blob/main/209-%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md)
