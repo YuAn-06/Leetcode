@@ -16,3 +16,5 @@ LeetCode解题思路
 ## 链表
 - [203-移除链表元素](https://github.com/YuAn-06/Leetcode/blob/main/203-%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.md)
 - [707-设计链表](https://github.com/YuAn-06/Leetcode/blob/main/707-%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.md)
+- [206-反转链表](https://github.com/YuAn-06/Leetcode/blob/main/206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+- [24-两两交换链表中的节点]
