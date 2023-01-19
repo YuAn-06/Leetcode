@@ -18,3 +18,4 @@ LeetCode解题思路
 - [707-设计链表](https://github.com/YuAn-06/Leetcode/blob/main/707-%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.md)
 - [206-反转链表](https://github.com/YuAn-06/Leetcode/blob/main/206-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 - [24-两两交换链表中的节点](https://github.com/YuAn-06/Leetcode/blob/main/24-%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md)
+- [19-删除链表的倒数第N个节点](https://github.com/YuAn-06/Leetcode/blob/main/19-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
