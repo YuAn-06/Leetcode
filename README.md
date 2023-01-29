@@ -25,3 +25,5 @@ LeetCode解题思路
 - [19-删除链表的倒数第N个节点](https://github.com/YuAn-06/Leetcode/blob/main/19-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 
 - [面试题-链表相交](https://github.com/YuAn-06/Leetcode/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98-%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
+
+- [142-环型链表](https://github.com/YuAn-06/Leetcode/blob/main/142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.md)
