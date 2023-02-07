@@ -29,4 +29,4 @@ LeetCode解题思路
 - [142-环型链表](https://github.com/YuAn-06/Leetcode/blob/main/142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.md)
 
 ## 哈希表
--[242-有效的字母异位词](https://github.com/YuAn-06/Leetcode/blob/main/242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+- [242-有效的字母异位词](https://github.com/YuAn-06/Leetcode/blob/main/242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
