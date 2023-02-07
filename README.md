@@ -27,3 +27,6 @@ LeetCode解题思路
 - [面试题-链表相交](https://github.com/YuAn-06/Leetcode/blob/main/%E9%9D%A2%E8%AF%95%E9%A2%98-%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md)
 
 - [142-环型链表](https://github.com/YuAn-06/Leetcode/blob/main/142-%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82.md)
+
+## 哈希表
+-[242-有效的字母异位词](https://github.com/YuAn-06/Leetcode/blob/main/242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
